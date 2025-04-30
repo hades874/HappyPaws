@@ -1,15 +1,17 @@
 # HappyPaws
 
-**HappyPaws** is a comprehensive pet care application designed to help pet owners monitor and manage their pets' well-being. The project includes various features, such as tracking pet activities, storing medical records, and managing pet care routines.
+**HappyPaws** is a comprehensive pet hostel management application designed to help hotel owners monitor and manage the well-being of pets staying in their facility. This application provides essential features such as pet information management, inventory tracking, room management, checkouts, and transaction processing.
 
 ## 🌟 Features
 
 - **Pet Profile Management**: Keep track of pets' personal information, medical history, and activity logs.
-- **Activity Tracker**: Log pets' daily activities to monitor their health and fitness.
-- **Care Reminders**: Set up reminders for regular pet care activities, such as feeding, walking, and grooming.
-- **Database Integration**: A well-structured database for storing and retrieving pet records.
+- **Inventory Management**: Monitor and manage essential pet care supplies like food, toys, grooming products, and medications.
+- **Room Management**: Manage room details, including availability, bookings, and room assignments for each pet.
+- **Checkout & Transactions**: Process pet checkouts, including billing, payment tracking, and transaction history.
+- **Care Reminders**: Set up reminders for regular pet care activities such as feeding, walking, and grooming.
+- **Database Integration**: A well-structured database to store and retrieve all pet records, transactions, room details, and inventory.
 
 ## 🛠️ Technologies Used
 
 - **Java**: Core application logic and functionalities are built using Java.
-- **SQL**: Database management for storing pet information.
+- **SQL**: Database management for storing pet information, transactions, inventory, and room details.
